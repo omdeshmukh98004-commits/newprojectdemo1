@@ -12,7 +12,7 @@ public class privateclass {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.srnawalespapad.co.in/contact-sr-nawales-papad/");
-	System.out.println("onkar");
+	
 		driver.close();
 	}
 	
